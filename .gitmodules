@@ -1,0 +1,6 @@
+[submodule "fotos-api"]
+	path = fotos-api
+	url = git@github.com:Forbidden-A/fotos-api.git
+[submodule "fotos-webapp"]
+	path = fotos-webapp
+	url = git@github.com:Forbidden-A/fotos-webapp.git
